@@ -1,4 +1,4 @@
-# core-genome-calculation
+# core-genome-ANI-calculation
 
 This jupyter notebook are used to present details of core genomes ANI calculation in our *E.coli* population genomic paper(Hu et al., 2020)
 
